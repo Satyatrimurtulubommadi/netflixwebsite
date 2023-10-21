@@ -1,0 +1,89 @@
+.bg{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/a73c4363-1dcd-4719-b3b1-3725418fd91d/fe1147dd-78be-44aa-a0e5-2d2994305a13/IN-en-20231016-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+
+
+.float{
+    float: left;
+}
+.clearfix{
+    clear: both;
+    display: table;
+}
+
+
+body{
+    margin:0% ;
+}
+
+*{
+    box-sizing: border-box;
+}
+ul li{
+    color: white;
+    list-style: none;
+    text-decoration: underline;
+}
+
+
+label{
+   
+    color: black;
+    background-color: transparent;
+    
+}
+.is{
+    height: 50px;
+    width: 70%;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+    background-color:red;
+    color: green;
+    border: 2px solid green;
+    font-size: 20px;
+}
+header button,label:hover{
+    
+    color: white;
+}
+header button{
+    display: inline-block;
+}
+
+
+
+.style{
+    font-style:  Bebas Neue;
+    margin-right: 40px;
+}
+span{
+    text-decoration: underline;
+    color: white;
+
+}
+h4,h1,h3{
+    color: white;
+}
+.trans-50{
+    background-color: rgba(0, 0, 0, 0.634);
+    width: 100%;
+    height: 100vh;
+}
